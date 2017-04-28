@@ -20,6 +20,7 @@
 <table>
   <tr>
     <td><a href="https://github.com/Narutocc/text-share/issues/12">jq页面刷新</a></td>
+    <td><a href="https://github.com/Narutocc/text-share/issues/13">jq事件绑定on()、bind()和delegate()</a></td>
   </tr>
 </table>
 
