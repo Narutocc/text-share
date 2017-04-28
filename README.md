@@ -16,7 +16,7 @@
     <td><a href="https://github.com/Narutocc/text-share/issues/10">CSS</a></td>
    </tr>
 </table>
-<h4>jQuery</h4>
+<p>jQuery</p>
 <table>
   <tr>
     <td><a href="https://github.com/Narutocc/text-share/issues/12">jq页面刷新</a></td>
