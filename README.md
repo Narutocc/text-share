@@ -15,4 +15,7 @@
     <td><a href="https://github.com/Narutocc/text-share/issues/9">meta标签</a></td>
     <td><a href="https://github.com/Narutocc/text-share/issues/10">CSS</a></td>
    </tr>
+   <tr>
+    <td><a href="https://github.com/Narutocc/text-share/issues/11">jQuery</a></td>
+   </tr>
 </table>
