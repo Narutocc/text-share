@@ -23,4 +23,9 @@
     <td><a href="https://github.com/Narutocc/text-share/issues/13">jq事件绑定on()、bind()和delegate()</a></td>
   </tr>
 </table>
-
+<div>other</div>
+<table>
+  <tr>
+    <td><a href="https://github.com/Narutocc/text-share/issues/14">knockout</a></td>
+  </tr>
+</table>
