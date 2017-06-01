@@ -11,10 +11,16 @@
     <td><a href="https://github.com/Narutocc/text-share/issues/6">浏览器兼容</a></td>
     <td><a href="https://github.com/Narutocc/text-share/issues/8">webpack</a></td>
    </tr>
-   <tr>
+</table>
+<div>CSS</div>
+<table>
+  <tr>
     <td><a href="https://github.com/Narutocc/text-share/issues/9">meta标签</a></td>
     <td><a href="https://github.com/Narutocc/text-share/issues/10">CSS</a></td>
-   </tr>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Narutocc/text-share/issues/15">css——cursor</a></td>
+  </tr>
 </table>
 <div>jQuery</div>
 <table>
