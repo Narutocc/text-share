@@ -22,6 +22,9 @@
     <td><a href="https://github.com/Narutocc/text-share/issues/12">jq页面刷新</a></td>
     <td><a href="https://github.com/Narutocc/text-share/issues/13">jq事件绑定on()、bind()和delegate()</a></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/Narutocc/text-share/issues/17">表单验证——正则</a></td>
+  </tr>
 </table>
 <div>other</div>
 <table>
