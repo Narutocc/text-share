@@ -35,6 +35,6 @@
 <div>eclipse</div>
 <table>
   <tr>
-    <td><a href="https://github.com/Narutocc/text-share/issues/14">解决端口号被占用</a></td>
+    <td><a href="https://github.com/Narutocc/text-share/issues/16">解决端口号被占用</a></td>
   </tr>
 </table>
