@@ -19,7 +19,7 @@
     <td><a href="https://github.com/Narutocc/text-share/issues/10">CSS</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Narutocc/text-share/issues/15">css——cursor</a></td>
+    <td><a href="https://github.com/Narutocc/text-share/issues/15">css---cursor</a></td>
   </tr>
 </table>
 <div>jQuery</div>
