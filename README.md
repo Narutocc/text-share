@@ -30,6 +30,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/Narutocc/text-share/issues/17">表单验证——正则</a></td>
+    <td><a href="https://github.com/Narutocc/text-share/issues/18">attr()&&css()</a></td>
   </tr>
 </table>
 <div>other</div>
