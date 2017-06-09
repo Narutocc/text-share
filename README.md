@@ -20,6 +20,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/Narutocc/text-share/issues/15">css---cursor</a></td>
+    <td><a href="https://github.com/Narutocc/text-share/issues/20">css画出菱形</a></td>
   </tr>
 </table>
 <div>jQuery</div>
