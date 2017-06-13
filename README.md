@@ -22,6 +22,9 @@
     <td><a href="https://github.com/Narutocc/text-share/issues/15">css---cursor</a></td>
     <td><a href="https://github.com/Narutocc/text-share/issues/20">css画出菱形</a></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/Narutocc/text-share/issues/21">css画出三角箭头</a></td>
+  </tr>
 </table>
 <div>jQuery</div>
 <table>
