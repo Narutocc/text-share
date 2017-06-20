@@ -11,6 +11,9 @@
     <td><a href="https://github.com/Narutocc/text-share/issues/6">浏览器兼容</a></td>
     <td><a href="https://github.com/Narutocc/text-share/issues/8">webpack</a></td>
    </tr>
+   <tr>
+    <td><a href="https://github.com/Narutocc/text-share/issues/25">webstorm安装指南</a></td>
+   </tr>
 </table>
 <div>CSS</div>
 <table>
