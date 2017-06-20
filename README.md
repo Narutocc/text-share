@@ -48,5 +48,9 @@
   </tr>
   <tr>
     <td><a href="https://github.com/Narutocc/text-share/issues/22">docker命令</a></td>
+    <td><a href="https://github.com/Narutocc/text-share/issues/23">cmd---ping</a></td>
+ </tr>
+ <tr>
+    <td><a href="https://github.com/Narutocc/text-share/issues/24">压缩、解压缩命令</a></td>
  </tr>
 </table>
