@@ -29,6 +29,9 @@
     <td><a href="https://github.com/Narutocc/text-share/issues/21">css画出三角箭头</a></td>
     <td><a href="https://github.com/Narutocc/text-share/issues/27">css书签</a></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/Narutocc/text-share/issues/30">渐变边框</a></td>
+  </tr>
 </table>
 <div>jQuery</div>
 <table>
