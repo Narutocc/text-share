@@ -42,6 +42,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/Narutocc/text-share/issues/19">jq获取滚动高度</a></td>
+    <td><a href="https://github.com/Narutocc/text-share/issues/28">闭包example</a></td>
   </tr>
 </table>
 <div>other</div>
