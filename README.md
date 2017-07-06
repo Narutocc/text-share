@@ -65,4 +65,7 @@
     <td><a href="https://github.com/Narutocc/text-share/issues/24">压缩、解压缩命令</a></td>
     <td><a href="https://github.com/Narutocc/text-share/issues/26">VMware通过vmdk文件创建虚拟机</a></td>
  </tr>
+ <tr>
+    <td><a href="https://github.com/Narutocc/text-share/issues/24">nrm---快速切换NPM源</a></td>
+ </tr>
 </table>
