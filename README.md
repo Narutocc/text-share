@@ -5,10 +5,6 @@
    </tr>
    <tr>
     <td><a href="https://github.com/Narutocc/text-share/issues/4">gulp安装指南</a></td>
-     <td><a href="https://github.com/Narutocc/text-share/issues/5">YAHOO 前端性能优化</a></td>
-   </tr>
-   <tr>
-    <td><a href="https://github.com/Narutocc/text-share/issues/6">浏览器兼容</a></td>
     <td><a href="https://github.com/Narutocc/text-share/issues/8">webpack</a></td>
    </tr>
    <tr>
@@ -17,6 +13,10 @@
 </table>
 <div>CSS</div>
 <table>
+<tr>
+     <td><a href="https://github.com/Narutocc/text-share/issues/5">YAHOO 前端性能优化</a></td>
+    <td><a href="https://github.com/Narutocc/text-share/issues/6">浏览器兼容</a></td>
+  </tr>
   <tr>
     <td><a href="https://github.com/Narutocc/text-share/issues/9">meta标签</a></td>
     <td><a href="https://github.com/Narutocc/text-share/issues/10">CSS</a></td>
