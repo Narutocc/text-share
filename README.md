@@ -9,6 +9,7 @@
    </tr>
    <tr>
     <td><a href="https://github.com/Narutocc/text-share/issues/25">webstorm安装指南</a></td>
+    <td><a href="https://github.com/Narutocc/text-share/issues/35">Grunt</a></td>
    </tr>
 </table>
 <div>CSS</div>
