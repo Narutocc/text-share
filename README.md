@@ -82,7 +82,7 @@
 <div>插件</div>
 <table>
   <tr>
-    <td><a href="https://github.com/Narutocc/text-share/issues/14">knockout</a></td>
+    <td><a href="https://github.com/Narutocc/text-share/issues/38">jquery.cookie.js</a></td>
     <td><a href="https://github.com/Narutocc/text-share/issues/16">eclipse解决端口号被占用</a></td>
   </tr>
 </table>
