@@ -38,6 +38,9 @@
     <td><a href="https://github.com/Narutocc/text-share/issues/30">渐变边框</a></td>
     <td><a href="https://github.com/Narutocc/text-share/issues/41">表格自适应</a></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/Narutocc/text-share/issues/42">换行 & 不换行</a></td>
+  </tr>
 </table>
 <div>jQuery</div>
 <table>
