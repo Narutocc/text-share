@@ -42,6 +42,9 @@
     <td><a href="https://github.com/Narutocc/text-share/issues/42">换行 & 不换行</a></td>
     <td><a href="https://github.com/Narutocc/text-share/issues/43">css特殊选择器</a></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/Narutocc/text-share/issues/45">rem</a></td>
+  </tr>
 </table>
 <div>jQuery</div>
 <table>
