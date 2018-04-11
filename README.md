@@ -44,6 +44,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/Narutocc/text-share/issues/45">rem</a></td>
+    <td><a href="https://github.com/Narutocc/text-share/issues/46">sublime text3——rem插件</a></td>
   </tr>
 </table>
 <div>jQuery</div>
