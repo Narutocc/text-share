@@ -91,4 +91,7 @@
     <td><a href="https://github.com/Narutocc/text-share/issues/31">nrm---快速切换NPM源</a></td>
     <td><a href="https://github.com/Narutocc/text-share/issues/34">node-sass 安装报错</a></td>
  </tr>
+  <tr>
+    <td><a href="https://github.com/Narutocc/text-share/issues/48"> iconfont网站</a></td>
+ </tr>
 </table>
