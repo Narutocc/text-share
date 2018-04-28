@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><a href="https://github.com/Narutocc/text-share/issues/1">git版本管理工具1</a></td>
+    <td><a href="https://github.com/Narutocc/text-share/issues/1">git版本管理工具</a></td>
     <td><a href="https://github.com/Narutocc/text-share/issues/3">搭建PHP环境</a></td>
    </tr>
    <tr>
