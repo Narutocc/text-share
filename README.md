@@ -97,5 +97,6 @@
  </tr>
   <tr>
     <td><a href="https://github.com/Narutocc/text-share/issues/50">dependencies && devDependencies</a></td>
+    <td><a href="https://github.com/Narutocc/text-share/issues/51">nginx命令</a></td>
  </tr>
 </table>
