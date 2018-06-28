@@ -15,6 +15,9 @@
     <td><a href="https://github.com/Narutocc/text-share/issues/36">Go语言</a></td>
     <td><a href="https://github.com/Narutocc/text-share/issues/37">Python</a></td>
    </tr>
+   <tr>
+    <td><a href="https://github.com/Narutocc/text-share/issues/52">github/gitlab .ssh文件设置</a></td>
+   </tr>
 </table>
 <div>CSS</div>
 <table>
