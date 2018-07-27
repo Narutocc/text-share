@@ -49,6 +49,9 @@
     <td><a href="https://github.com/Narutocc/text-share/issues/45">rem</a></td>
     <td><a href="https://github.com/Narutocc/text-share/issues/46">sublime text3——rem插件</a></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/Narutocc/text-share/issues/45">解决position:relative情况下，z-index无效的方法</a></td>
+  </tr>
 </table>
 <div>jQuery</div>
 <table>
