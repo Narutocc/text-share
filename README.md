@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/Narutocc/text-share/issues/55">vue中less语法高亮提示的插件</a></td>
-    <td><a href="https://github.com/Narutocc/text-share/issues/56">sublime docblocker插件</a></td>
+    <td><a href="https://github.com/Narutocc/text-share/issues/56">谷歌vue-devtools</a></td>
   </tr>
 </table>
 <div>jQuery</div>
