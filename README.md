@@ -53,6 +53,10 @@
     <td><a href="https://github.com/Narutocc/text-share/issues/53">解决z-index无效的方法</a></td>
     <td><a href="https://github.com/Narutocc/text-share/issues/54">sublime docblocker插件</a></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/Narutocc/text-share/issues/55">vue中less语法高亮提示的插件</a></td>
+    <td><a href="https://github.com/Narutocc/text-share/issues/56">sublime docblocker插件</a></td>
+  </tr>
 </table>
 <div>jQuery</div>
 <table>
