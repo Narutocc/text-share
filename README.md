@@ -117,6 +117,5 @@
 </table>
 
 ## Threejs
-| Reference | Reference |
 | --------- | --------- |
 |[Three.js制作demo](https://github.com/Narutocc/text-share/issues/59)||
