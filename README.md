@@ -119,4 +119,4 @@
 ## Threejs
 | Reference | Reference |
 | --------- | --------- |
-|[WeUI](https://github.com/weui/weui)|[Bootstrap](http://www.bootcss.com)|
+|[Three.js制作demo](https://github.com/Narutocc/text-share/issues/59)|[Bootstrap](http://www.bootcss.com)|
