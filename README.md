@@ -120,3 +120,8 @@
 | Reference | Reference |
 | --------- | --------- |
 |[Three.js制作demo](https://github.com/Narutocc/text-share/issues/59)||
+
+## 算法
+| Reference | Reference |
+| --------- | --------- |
+|[Three.js制作demo](https://github.com/Narutocc/text-share/issues/59)||
