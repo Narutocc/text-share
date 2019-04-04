@@ -79,6 +79,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/Narutocc/text-share/issues/47">3D机房</a></td>
+    <td><a href="https://github.com/Narutocc/text-share/issues/62">动态打字换行</a></td>
   </tr>
 </table>
 <div>other</div>
