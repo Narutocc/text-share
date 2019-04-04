@@ -59,7 +59,7 @@
     <td><a href="https://github.com/Narutocc/text-share/issues/56">谷歌vue-devtools</a></td>
   </tr>
 </table>
-<div>jQuery</div>
+<div>脚本</div>
 <table>
   <tr>
     <td><a href="https://github.com/Narutocc/text-share/issues/12">jq页面刷新</a></td>
