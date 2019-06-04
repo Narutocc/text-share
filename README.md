@@ -1,6 +1,6 @@
 issues | issues
 -|-|
-[git版本管理工具](https://github.com/Narutocc/text-share/issues/1)|
+[后端返回图片前端显示方式](https://github.com/Narutocc/text-share/issues/65)
 
 <table>
   <tr>
