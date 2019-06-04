@@ -1,4 +1,6 @@
-|-----issues------||---issues---|
+issues | issues
+-|-|
+[git版本管理工具](https://github.com/Narutocc/text-share/issues/1)|
 
 <table>
   <tr>
