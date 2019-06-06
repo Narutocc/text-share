@@ -1,7 +1,7 @@
 issues | issues
 -|-|
 [后端返回图片前端显示方式](https://github.com/Narutocc/text-share/issues/65)|[获取数组不重复随机项封装](https://github.com/Narutocc/text-share/issues/66)
-[动态打字效果](https://github.com/Narutocc/text-share/issues/67)
+[动态打字换行效果](https://github.com/Narutocc/text-share/issues/67)|[动态打字换行效果（简单版）](https://github.com/Narutocc/text-share/issues/62)
 <table>
   <tr>
     <td><a href="https://github.com/Narutocc/text-share/issues/1">git版本管理工具</a></td>
@@ -83,7 +83,6 @@ issues | issues
   </tr>
   <tr>
     <td><a href="https://github.com/Narutocc/text-share/issues/47">3D机房</a></td>
-    <td><a href="https://github.com/Narutocc/text-share/issues/62">动态打字换行</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Narutocc/text-share/issues/63">动画系列之FLIP技术</a></td>
