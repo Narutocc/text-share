@@ -2,6 +2,7 @@ issues | issues
 -|-|
 [后端返回图片前端显示方式](https://github.com/Narutocc/text-share/issues/65)|[获取数组不重复随机项封装](https://github.com/Narutocc/text-share/issues/66)
 [动态打字换行效果封装](https://github.com/Narutocc/text-share/issues/67)|[动态打字换行效果（简单版）](https://github.com/Narutocc/text-share/issues/62)
+[多个case写法](https://github.com/Narutocc/text-share/issues/70)|
 
 CSS3
 
