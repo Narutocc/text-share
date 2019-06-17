@@ -9,6 +9,7 @@ CSS3
 issues | issues
 -|-|
 [帧动画demo](https://github.com/Narutocc/text-share/issues/69)|[抗锯齿 font-smoothing](https://github.com/Narutocc/text-share/issues/71)
+[毛玻璃](https://github.com/Narutocc/text-share/issues/72)
 <table>
   <tr>
     <td><a href="https://github.com/Narutocc/text-share/issues/1">git版本管理工具</a></td>
