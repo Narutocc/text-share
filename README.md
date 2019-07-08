@@ -97,6 +97,12 @@ issues | issues
     <td><a href="https://github.com/Narutocc/text-share/issues/63">动画系列之FLIP技术</a></td>
   </tr>
 </table>
+
+环境
+issues | issues
+-|-|
+[使用npm install 报错 npm WARN tar zlib error: unexpected end of file](https://github.com/Narutocc/text-share/issues/75)|
+
 <div>other</div>
 <table>
   <tr>
