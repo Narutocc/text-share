@@ -4,7 +4,7 @@ issues | issues
 [动态打字换行效果封装](https://github.com/Narutocc/text-share/issues/67)|[动态打字换行效果（简单版）](https://github.com/Narutocc/text-share/issues/62)
 [动态打字换行效果封装（vue版本）](https://github.com/Narutocc/text-share/issues/73)|[多个case写法](https://github.com/Narutocc/text-share/issues/70)
 [获取数组中不重复的随机n个值（封装）](https://github.com/Narutocc/text-share/issues/74)|[文件下载](https://github.com/Narutocc/text-share/issues/76)
-[axios配合blob实现文件下载功能](https://github.com/Narutocc/text-share/issues/77)
+[axios配合blob实现文件下载功能](https://github.com/Narutocc/text-share/issues/77)|[循环中的return false](https://github.com/Narutocc/text-share/issues/79)
 
 CSS3
 
