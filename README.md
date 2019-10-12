@@ -6,7 +6,7 @@ issues | issues
 [获取数组中不重复的随机n个值（封装）](https://github.com/Narutocc/text-share/issues/74)|[文件下载](https://github.com/Narutocc/text-share/issues/76)
 [axios配合blob实现文件下载功能](https://github.com/Narutocc/text-share/issues/77)|[循环中的return false](https://github.com/Narutocc/text-share/issues/79)
 [常用正则](https://github.com/Narutocc/text-share/issues/80)|[传递后台的参数：以数组或者对象形式](https://github.com/Narutocc/text-share/issues/81)
-[自定义排序](https://github.com/Narutocc/text-share/issues/82)|[判断两个对象所有属性是否相等（封装）](https://github.com/Narutocc/text-share/issues/83
+[自定义排序](https://github.com/Narutocc/text-share/issues/82)|[判断两个对象所有属性是否相等（封装）](https://github.com/Narutocc/text-share/issues/83)
 
 CSS3
 
