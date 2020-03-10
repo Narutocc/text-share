@@ -8,7 +8,7 @@ issues | issues
 [常用正则](https://github.com/Narutocc/text-share/issues/80)|[传递后台的参数：以数组或者对象形式](https://github.com/Narutocc/text-share/issues/81)
 [自定义排序](https://github.com/Narutocc/text-share/issues/82)|[判断两个对象所有属性是否相等（封装）](https://github.com/Narutocc/text-share/issues/83)
 [获取数组对象属性值重复的项](https://github.com/Narutocc/text-share/issues/84)|[时间format封装](https://github.com/Narutocc/text-share/issues/85)
-[本地图片上传](https://github.com/Narutocc/text-share/issues/87)
+[本地图片上传（原生）](https://github.com/Narutocc/text-share/issues/86)
 
 CSS3
 
