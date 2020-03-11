@@ -15,7 +15,7 @@ CSS3
 issues | issues
 -|-|
 [帧动画demo](https://github.com/Narutocc/text-share/issues/69)|[抗锯齿 font-smoothing](https://github.com/Narutocc/text-share/issues/71)
-[毛玻璃](https://github.com/Narutocc/text-share/issues/72)
+[毛玻璃](https://github.com/Narutocc/text-share/issues/72)|[表格动态高度画斜线](https://github.com/Narutocc/text-share/issues/87)
 
 Webpack
 
