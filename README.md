@@ -9,6 +9,7 @@ issues | issues
 [自定义排序](https://github.com/Narutocc/text-share/issues/82)|[判断两个对象所有属性是否相等（封装）](https://github.com/Narutocc/text-share/issues/83)
 [获取数组对象属性值重复的项](https://github.com/Narutocc/text-share/issues/84)|[时间format封装](https://github.com/Narutocc/text-share/issues/85)
 [本地图片上传（原生）](https://github.com/Narutocc/text-share/issues/86)|[table原生实现冻结表头、固定列效果---js](https://github.com/Narutocc/text-share/issues/88)
+[table实现冻结表头---css](https://github.com/Narutocc/text-share/issues/89)
 
 CSS3
 
