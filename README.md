@@ -10,6 +10,7 @@ issues | issues
 [获取数组对象属性值重复的项](https://github.com/Narutocc/text-share/issues/84)|[时间format封装](https://github.com/Narutocc/text-share/issues/85)
 [本地图片上传（原生）](https://github.com/Narutocc/text-share/issues/86)|[table原生实现冻结表头、固定列效果---js](https://github.com/Narutocc/text-share/issues/88)
 [table实现冻结表头---css](https://github.com/Narutocc/text-share/issues/89)|[上传图片以form表单形式提交后台](https://github.com/Narutocc/text-share/issues/90)
+[移动端图片上传压缩](https://github.com/Narutocc/text-share/issues/91)|
 
 CSS3
 
