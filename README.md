@@ -12,6 +12,7 @@ issues | issues
 [table实现冻结表头---css](https://github.com/Narutocc/text-share/issues/89)|[上传图片以form表单形式提交后台](https://github.com/Narutocc/text-share/issues/90)
 [移动端图片上传压缩](https://github.com/Narutocc/text-share/issues/91)|[数组拆分多个小数组封装](https://github.com/Narutocc/text-share/issues/93)
 [【图片缓存】通过img标签加载GIF只能播放一次问题 ](https://github.com/Narutocc/text-share/issues/95)|[所谓浅拷贝与深拷贝](https://github.com/Narutocc/text-share/issues/96)
+[call()、apply()、bind()](https://github.com/Narutocc/text-share/issues/97)
 
 CSS3
 
