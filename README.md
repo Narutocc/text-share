@@ -13,6 +13,7 @@ issues | issues
 [移动端图片上传压缩](https://github.com/Narutocc/text-share/issues/91)|[数组拆分多个小数组封装](https://github.com/Narutocc/text-share/issues/93)
 [【图片缓存】通过img标签加载GIF只能播放一次问题 ](https://github.com/Narutocc/text-share/issues/95)|[所谓浅拷贝与深拷贝](https://github.com/Narutocc/text-share/issues/96)
 [call()、apply()、bind()](https://github.com/Narutocc/text-share/issues/97)|[所谓“防抖”](https://github.com/Narutocc/text-share/issues/98)
+[所谓“节流”](https://github.com/Narutocc/text-share/issues/99)
 
 CSS3
 
