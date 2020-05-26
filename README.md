@@ -27,8 +27,11 @@ Webpack
 
 issues | issues
 -|-|
-[配置代理](https://github.com/Narutocc/text-share/issues/78)|
+[git版本管理工具](https://github.com/Narutocc/text-share/issues/1)|[git 常用命令](https://github.com/Narutocc/text-share/issues/57)
 
+issues | issues
+-|-|
+[配置代理](https://github.com/Narutocc/text-share/issues/78)|
 <table>
   <tr>
     <td><a href="https://github.com/Narutocc/text-share/issues/1">git版本管理工具</a></td>
