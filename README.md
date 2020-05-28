@@ -33,12 +33,9 @@ issues | issues
 -|-|
 [git版本管理工具](https://github.com/Narutocc/text-share/issues/1)|[git 常用命令](https://github.com/Narutocc/text-share/issues/57)
 [gulp安装指南](https://github.com/Narutocc/text-share/issues/4)|[webpack](https://github.com/Narutocc/text-share/issues/8)
+[webstorm安装指南](https://github.com/Narutocc/text-share/issues/25)|[Grunt](https://github.com/Narutocc/text-share/issues/35)
 
 <table>
-   <tr>
-    <td><a href="https://github.com/Narutocc/text-share/issues/25">webstorm安装指南</a></td>
-    <td><a href="https://github.com/Narutocc/text-share/issues/35">Grunt</a></td>
-   </tr>
    <tr>
     <td><a href="https://github.com/Narutocc/text-share/issues/36">Go语言</a></td>
     <td><a href="https://github.com/Narutocc/text-share/issues/37">Python</a></td>
