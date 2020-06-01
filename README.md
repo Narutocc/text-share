@@ -37,12 +37,14 @@ issues | issues
 [Go语言](https://github.com/Narutocc/text-share/issues/36)|[Python](https://github.com/Narutocc/text-share/issues/37)
 [github/gitlab .ssh文件设置](https://github.com/Narutocc/text-share/issues/52)|[搭建PHP环境](https://github.com/Narutocc/text-share/issues/3)
 
-<div>CSS</div>
+CSS
+
+issues | issues
+-|-|
+[YAHOO 前端性能优化](https://github.com/Narutocc/text-share/issues/5)|[浏览器兼容](https://github.com/Narutocc/text-share/issues/6)
+
+
 <table>
-<tr>
-     <td><a href="https://github.com/Narutocc/text-share/issues/5">YAHOO 前端性能优化</a></td>
-    <td><a href="https://github.com/Narutocc/text-share/issues/6">浏览器兼容</a></td>
-  </tr>
   <tr>
     <td><a href="https://github.com/Narutocc/text-share/issues/9">meta标签</a></td>
     <td><a href="https://github.com/Narutocc/text-share/issues/10">CSS</a></td>
