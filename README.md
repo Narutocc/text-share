@@ -42,13 +42,10 @@ CSS
 issues | issues
 -|-|
 [YAHOO 前端性能优化](https://github.com/Narutocc/text-share/issues/5)|[浏览器兼容](https://github.com/Narutocc/text-share/issues/6)
+[meta标签](https://github.com/Narutocc/text-share/issues/9)|[CSS](https://github.com/Narutocc/text-share/issues/10)
 
 
 <table>
-  <tr>
-    <td><a href="https://github.com/Narutocc/text-share/issues/9">meta标签</a></td>
-    <td><a href="https://github.com/Narutocc/text-share/issues/10">CSS</a></td>
-  </tr>
   <tr>
     <td><a href="https://github.com/Narutocc/text-share/issues/15">css---cursor</a></td>
     <td><a href="https://github.com/Narutocc/text-share/issues/20">css画出菱形</a></td>
