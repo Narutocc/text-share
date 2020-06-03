@@ -43,13 +43,10 @@ issues | issues
 -|-|
 [YAHOO 前端性能优化](https://github.com/Narutocc/text-share/issues/5)|[浏览器兼容](https://github.com/Narutocc/text-share/issues/6)
 [meta标签](https://github.com/Narutocc/text-share/issues/9)|[CSS](https://github.com/Narutocc/text-share/issues/10)
+[css---cursor](https://github.com/Narutocc/text-share/issues/15)|[css画出菱形](https://github.com/Narutocc/text-share/issues/20)
 
 
 <table>
-  <tr>
-    <td><a href="https://github.com/Narutocc/text-share/issues/15">css---cursor</a></td>
-    <td><a href="https://github.com/Narutocc/text-share/issues/20">css画出菱形</a></td>
-  </tr>
   <tr>
     <td><a href="https://github.com/Narutocc/text-share/issues/21">css画出三角箭头</a></td>
     <td><a href="https://github.com/Narutocc/text-share/issues/27">css书签</a></td>
