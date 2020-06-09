@@ -46,12 +46,9 @@ issues | issues
 [css---cursor](https://github.com/Narutocc/text-share/issues/15)|[css画出菱形](https://github.com/Narutocc/text-share/issues/20)
 [css画出三角箭头](https://github.com/Narutocc/text-share/issues/21)|[css书签](https://github.com/Narutocc/text-share/issues/27)
 [渐变边框](https://github.com/Narutocc/text-share/issues/30)|[表格自适应](https://github.com/Narutocc/text-share/issues/41)
+[换行 & 不换行](https://github.com/Narutocc/text-share/issues/42)|[css特殊选择器](https://github.com/Narutocc/text-share/issues/43)
 
 <table>
-  <tr>
-    <td><a href="https://github.com/Narutocc/text-share/issues/42">换行 & 不换行</a></td>
-    <td><a href="https://github.com/Narutocc/text-share/issues/43">css特殊选择器</a></td>
-  </tr>
   <tr>
     <td><a href="https://github.com/Narutocc/text-share/issues/45">rem</a></td>
     <td><a href="https://github.com/Narutocc/text-share/issues/46">sublime text3——rem插件</a></td>
