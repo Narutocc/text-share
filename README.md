@@ -48,12 +48,9 @@ issues | issues
 [渐变边框](https://github.com/Narutocc/text-share/issues/30)|[表格自适应](https://github.com/Narutocc/text-share/issues/41)
 [换行 & 不换行](https://github.com/Narutocc/text-share/issues/42)|[css特殊选择器](https://github.com/Narutocc/text-share/issues/43)
 [rem](https://github.com/Narutocc/text-share/issues/45)|[sublime text3——rem插件](https://github.com/Narutocc/text-share/issues/46)
+[解决z-index无效的方法](https://github.com/Narutocc/text-share/issues/53)|[sublime docblocker插件](https://github.com/Narutocc/text-share/issues/54)
 
 <table>
-  <tr>
-    <td><a href="https://github.com/Narutocc/text-share/issues/53">解决z-index无效的方法</a></td>
-    <td><a href="https://github.com/Narutocc/text-share/issues/54">sublime docblocker插件</a></td>
-  </tr>
   <tr>
     <td><a href="https://github.com/Narutocc/text-share/issues/55">vue中less语法高亮提示的插件</a></td>
     <td><a href="https://github.com/Narutocc/text-share/issues/56">谷歌vue-devtools</a></td>
