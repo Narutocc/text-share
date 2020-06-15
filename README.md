@@ -51,7 +51,7 @@ issues | issues
 [解决z-index无效的方法](https://github.com/Narutocc/text-share/issues/53)|[sublime docblocker插件](https://github.com/Narutocc/text-share/issues/54)
 [vue中less语法高亮提示的插件](https://github.com/Narutocc/text-share/issues/55)|[谷歌vue-devtools](https://github.com/Narutocc/text-share/issues/56)
 
-<div>脚本</div>
+脚本
 <table>
   <tr>
     <td><a href="https://github.com/Narutocc/text-share/issues/12">jq页面刷新</a></td>
