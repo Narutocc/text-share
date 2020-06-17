@@ -52,11 +52,12 @@ issues | issues
 [vue中less语法高亮提示的插件](https://github.com/Narutocc/text-share/issues/55)|[谷歌vue-devtools](https://github.com/Narutocc/text-share/issues/56)
 
 脚本
+
+issues | issues
+-|-|
+[jq页面刷新](https://github.com/Narutocc/text-share/issues/12)|[jq事件绑定on()、bind()和delegate()](https://github.com/Narutocc/text-share/issues/13)
+
 <table>
-  <tr>
-    <td><a href="https://github.com/Narutocc/text-share/issues/12">jq页面刷新</a></td>
-    <td><a href="https://github.com/Narutocc/text-share/issues/13">jq事件绑定on()、bind()和delegate()</a></td>
-  </tr>
   <tr>
     <td><a href="https://github.com/Narutocc/text-share/issues/17">表单验证——正则</a></td>
     <td><a href="https://github.com/Narutocc/text-share/issues/18">attr()&&css()</a></td>
