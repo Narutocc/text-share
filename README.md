@@ -59,15 +59,7 @@ issues | issues
 [表单验证——正则](https://github.com/Narutocc/text-share/issues/17)|[attr()&&css()](https://github.com/Narutocc/text-share/issues/18)
 [jq获取滚动高度](https://github.com/Narutocc/text-share/issues/19)|[闭包example](https://github.com/Narutocc/text-share/issues/28)
 [URL渲染过程](https://github.com/Narutocc/text-share/issues/29)|[浮点数0.57 0.58 造出的坑爹问题](https://github.com/Narutocc/text-share/issues/40)
-
-<table>
-  <tr>
-    <td><a href="https://github.com/Narutocc/text-share/issues/47">3D机房</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Narutocc/text-share/issues/63">动画系列之FLIP技术</a></td>
-  </tr>
-</table>
+[3D机房](https://github.com/Narutocc/text-share/issues/47)|[动画系列之FLIP技术](https://github.com/Narutocc/text-share/issues/63)
 
 环境
 
