@@ -72,12 +72,9 @@ other
 issues | issues
 -|-|
 [knockout](https://github.com/Narutocc/text-share/issues/14)|[eclipse解决端口号被占用](https://github.com/Narutocc/text-share/issues/16)
+[docker命令](https://github.com/Narutocc/text-share/issues/22)|[cmd---ping](https://github.com/Narutocc/text-share/issues/23)
 
 <table>
-  <tr>
-    <td><a href="https://github.com/Narutocc/text-share/issues/22">docker命令</a></td>
-    <td><a href="https://github.com/Narutocc/text-share/issues/23">cmd---ping</a></td>
- </tr>
  <tr>
     <td><a href="https://github.com/Narutocc/text-share/issues/24">压缩、解压缩命令</a></td>
     <td><a href="https://github.com/Narutocc/text-share/issues/26">VMware通过vmdk文件创建虚拟机</a></td>
