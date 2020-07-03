@@ -74,12 +74,9 @@ issues | issues
 [knockout](https://github.com/Narutocc/text-share/issues/14)|[eclipse解决端口号被占用](https://github.com/Narutocc/text-share/issues/16)
 [docker命令](https://github.com/Narutocc/text-share/issues/22)|[cmd---ping](https://github.com/Narutocc/text-share/issues/23)
 [压缩、解压缩命令](https://github.com/Narutocc/text-share/issues/24)|[VMware通过vmdk文件创建虚拟机](https://github.com/Narutocc/text-share/issues/26)
+[npm命令详解](https://github.com/Narutocc/text-share/issues/33)|[npm package.json](https://github.com/Narutocc/text-share/issues/32)
 
 <table>
- <tr>
-    <td><a href="https://github.com/Narutocc/text-share/issues/33">npm命令详解</a></td>
-    <td><a href="https://github.com/Narutocc/text-share/issues/32">npm package.json</a></td>
- </tr>
  <tr>
     <td><a href="https://github.com/Narutocc/text-share/issues/31">nrm---快速切换NPM源</a></td>
     <td><a href="https://github.com/Narutocc/text-share/issues/34">node-sass 安装报错</a></td>
