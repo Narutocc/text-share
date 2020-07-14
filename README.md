@@ -75,12 +75,9 @@ issues | issues
 [docker命令](https://github.com/Narutocc/text-share/issues/22)|[cmd---ping](https://github.com/Narutocc/text-share/issues/23)
 [压缩、解压缩命令](https://github.com/Narutocc/text-share/issues/24)|[VMware通过vmdk文件创建虚拟机](https://github.com/Narutocc/text-share/issues/26)
 [npm命令详解](https://github.com/Narutocc/text-share/issues/33)|[npm package.json](https://github.com/Narutocc/text-share/issues/32)
-[nrm---快速切换NPM源](https://github.com/Narutocc/text-share/issues/31)|
+[nrm---快速切换NPM源](https://github.com/Narutocc/text-share/issues/31)|[node-sass 安装报错](https://github.com/Narutocc/text-share/issues/34)
 
 <table>
- <tr>
-    <td><a href="https://github.com/Narutocc/text-share/issues/34">node-sass 安装报错</a></td>
- </tr>
   <tr>
     <td><a href="https://github.com/Narutocc/text-share/issues/48">iconfont网站</a></td>
     <td><a href="https://github.com/Narutocc/text-share/issues/49">psd</a></td>
