@@ -77,12 +77,9 @@ issues | issues
 [npm命令详解](https://github.com/Narutocc/text-share/issues/33)|[npm package.json](https://github.com/Narutocc/text-share/issues/32)
 [nrm---快速切换NPM源](https://github.com/Narutocc/text-share/issues/31)|[node-sass 安装报错](https://github.com/Narutocc/text-share/issues/34)
 [iconfont网站](https://github.com/Narutocc/text-share/issues/48)|[psd](https://github.com/Narutocc/text-share/issues/49)
+[dependencies && devDependencies](https://github.com/Narutocc/text-share/issues/50)|[nginx命令](https://github.com/Narutocc/text-share/issues/51)
 
 <table>
- <tr>
-    <td><a href="https://github.com/Narutocc/text-share/issues/50">dependencies && devDependencies</a></td>
-    <td><a href="https://github.com/Narutocc/text-share/issues/51">nginx命令</a></td>
- </tr>
  <tr>
     <td><a href="https://github.com/Narutocc/text-share/issues/58">AST抽象语法树</a></td>
     <td><a href="https://github.com/Narutocc/text-share/issues/64">关于网页字体那些事~~~font-spider && webfontloader</a></td>
