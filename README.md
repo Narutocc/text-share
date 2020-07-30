@@ -14,6 +14,7 @@ issues | issues
 [【图片缓存】通过img标签加载GIF只能播放一次问题 ](https://github.com/Narutocc/text-share/issues/95)|[所谓浅拷贝与深拷贝](https://github.com/Narutocc/text-share/issues/96)
 [call()、apply()、bind()](https://github.com/Narutocc/text-share/issues/97)|[数组的深浅拷贝](https://github.com/Narutocc/text-share/issues/100)
 [所谓“防抖”](https://github.com/Narutocc/text-share/issues/98)|[所谓“节流”](https://github.com/Narutocc/text-share/issues/99)
+[前端读取excel表格的数据 js-xlsx](https://github.com/Narutocc/text-share/issues/101)
 
 CSS3
 
