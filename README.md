@@ -28,15 +28,15 @@ Webpack
 
 issues | issues
 -|-|
-[配置代理](https://github.com/Narutocc/text-share/issues/78)|
+[webpack](https://github.com/Narutocc/text-share/issues/8)|[配置代理](https://github.com/Narutocc/text-share/issues/78)
 
 issues | issues
 -|-|
 [git版本管理工具](https://github.com/Narutocc/text-share/issues/1)|[git 常用命令](https://github.com/Narutocc/text-share/issues/57)
-[gulp安装指南](https://github.com/Narutocc/text-share/issues/4)|[webpack](https://github.com/Narutocc/text-share/issues/8)
+[gulp安装指南](https://github.com/Narutocc/text-share/issues/4)|[搭建PHP环境](https://github.com/Narutocc/text-share/issues/3)
 [webstorm安装指南](https://github.com/Narutocc/text-share/issues/25)|[Grunt](https://github.com/Narutocc/text-share/issues/35)
 [Go语言](https://github.com/Narutocc/text-share/issues/36)|[Python](https://github.com/Narutocc/text-share/issues/37)
-[github/gitlab .ssh文件设置](https://github.com/Narutocc/text-share/issues/52)|[搭建PHP环境](https://github.com/Narutocc/text-share/issues/3)
+[github/gitlab .ssh文件设置](https://github.com/Narutocc/text-share/issues/52)|
 
 CSS
 
