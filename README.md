@@ -36,7 +36,7 @@ issues | issues
 [gulp安装指南](https://github.com/Narutocc/text-share/issues/4)|[搭建PHP环境](https://github.com/Narutocc/text-share/issues/3)
 [webstorm安装指南](https://github.com/Narutocc/text-share/issues/25)|[Grunt](https://github.com/Narutocc/text-share/issues/35)
 [Go语言](https://github.com/Narutocc/text-share/issues/36)|[Python](https://github.com/Narutocc/text-share/issues/37)
-[github/gitlab .ssh文件设置](https://github.com/Narutocc/text-share/issues/52)|
+[github/gitlab .ssh文件设置](https://github.com/Narutocc/text-share/issues/52)|[window](https://github.com/Narutocc/text-share/issues/103)
 
 CSS
 
