@@ -15,6 +15,7 @@ issues | issues
 [call()、apply()、bind()](https://github.com/Narutocc/text-share/issues/97)|[数组的深浅拷贝](https://github.com/Narutocc/text-share/issues/100)
 [所谓“防抖”](https://github.com/Narutocc/text-share/issues/98)|[所谓“节流”](https://github.com/Narutocc/text-share/issues/99)
 [前端读取excel表格的数据 XLSX](https://github.com/Narutocc/text-share/issues/101)|[restful请求方式不同对请求头Header的设置](https://github.com/Narutocc/text-share/issues/102)
+[call apply bind](https://github.com/Narutocc/text-share/issues/104)
 
 CSS3
 
@@ -89,4 +90,4 @@ issues | issues
 ## 算法
 | Reference | Reference |
 | --------- | --------- |
-|[一道腾讯面试题：厉害了我的杯](https://github.com/Narutocc/text-share/issues/61)|[move zeros](https://github.com/Narutocc/text-share/issues/68)|
+|[一道腾讯面试题：厉害了我的杯](https://github.com/Narutocc/text-share/issues/61)|[move zeros](https://github.com/Narutocc/text-share/issues/68)
