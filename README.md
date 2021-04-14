@@ -1,7 +1,9 @@
 issues
 issues | issues
 -|-|
-[微前端](https://github.com/Narutocc/text-share/issues/108)
+[微前端](https://github.com/Narutocc/text-share/issues/108)|
+[call apply bind](https://github.com/Narutocc/text-share/issues/104)|[JSON.parse(JSON.stringify()) 实现深拷贝的坑](https://github.com/Narutocc/text-share/issues/105)
+[JS 实现深拷贝的方法](https://github.com/Narutocc/text-share/issues/106)|[过滤请求参数的所有空值](https://github.com/Narutocc/text-share/issues/107)
 
 issues | issues
 -|-|
@@ -20,8 +22,6 @@ issues | issues
 [call()、apply()、bind()](https://github.com/Narutocc/text-share/issues/97)|[数组的深浅拷贝](https://github.com/Narutocc/text-share/issues/100)
 [所谓“防抖”](https://github.com/Narutocc/text-share/issues/98)|[所谓“节流”](https://github.com/Narutocc/text-share/issues/99)
 [前端读取excel表格的数据 XLSX](https://github.com/Narutocc/text-share/issues/101)|[restful请求方式不同对请求头Header的设置](https://github.com/Narutocc/text-share/issues/102)
-[call apply bind](https://github.com/Narutocc/text-share/issues/104)|[JSON.parse(JSON.stringify()) 实现深拷贝的坑](https://github.com/Narutocc/text-share/issues/105)
-[JS 实现深拷贝的方法](https://github.com/Narutocc/text-share/issues/106)|[过滤请求参数的所有空值](https://github.com/Narutocc/text-share/issues/107)
 
 CSS3
 
