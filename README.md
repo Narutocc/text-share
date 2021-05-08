@@ -1,6 +1,7 @@
 issues
 issues | issues
 -|-|
+[箭头函数跟普通函数区别](https://github.com/Narutocc/text-share/issues/114)
 [浏览器缓存机制](https://github.com/Narutocc/text-share/issues/112)|[replaint && reflow](https://github.com/Narutocc/text-share/issues/113)
 [微前端](https://github.com/Narutocc/text-share/issues/108)|[数据类型篇](https://github.com/Narutocc/text-share/issues/109)
 [call apply bind](https://github.com/Narutocc/text-share/issues/104)|[JSON.parse(JSON.stringify()) 实现深拷贝的坑](https://github.com/Narutocc/text-share/issues/105)
