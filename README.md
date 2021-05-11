@@ -1,6 +1,7 @@
 issues
 issues | issues
 -|-|
+[promise async await](https://github.com/Narutocc/text-share/issues/116)
 [箭头函数跟普通函数区别](https://github.com/Narutocc/text-share/issues/114)|[数组去重的方法](https://github.com/Narutocc/text-share/issues/115)
 [浏览器缓存机制](https://github.com/Narutocc/text-share/issues/112)|[replaint && reflow](https://github.com/Narutocc/text-share/issues/113)
 [微前端](https://github.com/Narutocc/text-share/issues/108)|[数据类型篇](https://github.com/Narutocc/text-share/issues/109)
